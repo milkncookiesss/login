@@ -1,0 +1,20 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Login Practice\r >use bcrypt\r >salt passwords\r >use database to hold users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkncookiesss/login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milkncookiesss/login/issues"
+  },
+  "homepage": "https://github.com/milkncookiesss/login#readme"
+}
