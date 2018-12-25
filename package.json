@@ -4,7 +4,8 @@
   "description": "Login Practice\r >use bcrypt\r >salt passwords\r >use database to hold users",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server/index.js"
   },
   "repository": {
     "type": "git",
