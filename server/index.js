@@ -1,3 +1,8 @@
+const BnetStrategy = requrie('passport-bnet').Strategy;
+//create environment variables for below
+// const BNET_ID = process.env.BNET_ID; 
+// const BNET_SECRET = process.env.BNET_SECRET
+
 const parser = require('body-parser');
 const express = require('express');
 const helmet = require('helmet');
